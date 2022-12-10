@@ -20,7 +20,7 @@ The recommended timeline for the whole module is 1 week.
 ### Task
 
 The goal of the exercise to make your familiar with AWS console, base components available in AWS such as Virtual Private Cloud (VPC), Security Group, EC2, RDS and S3. You also are expected to deploy you application within cloud facilities: web application on top of EC2 instance and static assets within S3 bucket. It also required to integrate with managed database instance (RDS). The deployment flow is not expected to be fully automated and most provision is to be done manually.
-![image info](media/vision.jpg)
+![image info](vision.jpg)
 
 1. AWS Account Creation
 AWS gives you an option to create a free account to browse, discover and use the main services it offers.
